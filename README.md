@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gaoyuexit&show_icons=true&theme=cobalt" alt="my github stats" width="450"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoyuexit&layout=compact&theme=cobalt" alt="languages" height="177">
+</p>
+
 <!--
 **gaoyuexit/gaoyuexit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
