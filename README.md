@@ -5,8 +5,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaoyuexit&layout=compact&theme=cobalt" alt="languages" height="177">
 </p>
 
-blog: http://gaoyu.cool <\p>
-more: http://gaoyu.cool/learn_assembly
+- blog: http://gaoyu.cool
+- more: http://gaoyu.cool/learn_assembly
 
 <!--
 **gaoyuexit/gaoyuexit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
